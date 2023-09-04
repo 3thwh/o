@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.Cabeçalho{
+    background-color: #000000;
+    color: white;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    padding: 20px;
+}
+
+.Titulo-cabeçalho{
+    font-size: 40px;
+}
+
+.C-1{
+    display: inline-block;
+    margin: 0 20px;
+    font-size: 19px;
+}
+
+.Textos{
+    background-color: white;
+    display: flex;
+    justify-content:left ;
+    margin: 40px;
+    align-items:center;
+    padding: 24px 0;
+    
+}
+
+.textos-div{
+    width: 50%;
+}
+
+.Titulo-textos{
+    padding: 24px 0;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.rodape{
+    background-color: black;
+    color: white;
+    text-align: center;
+   
+}
+
+.rodape.t{
+    height: 60px;
+    padding: 12px 0;
+}
+
+.botão{
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 1em;
+}
+
+.div-botão{
+    width: 50%;
+    
+   
+}
+
+.botão1{
+    background-color: white;
+    display: flex;
+    justify-content:left ;
+    margin: 40px;
+    align-items:center;
+    padding: 24px 0;
+}
+
